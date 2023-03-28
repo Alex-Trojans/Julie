@@ -16,7 +16,7 @@
          "options": {
             "version": "13"
          },
-         "plan": "Heroku-postgresql"
+         "plan": "heroku-postgresql"
       }
    ],
    "buildpacks": [
