@@ -23,7 +23,7 @@ async def awake(event):
     TEXT += "**Thanks For Adding Me Dear 🦋**"
     BUTTON = [
         [
-            Button.url("Help", "https://t.me/EmiexRobot?start=help"),
+            Button.url("Help", "https://t.me/Julie_x_robot?start=help"),
             Button.url("Support", "https://t.me/Trojans_support"),
         ]
     ]
