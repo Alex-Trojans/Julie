@@ -81,7 +81,7 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 
-PM_START_TEXT = """
+PM_START_TEXT = ""
 ────「[ᴊᴜʟɪᴇ_x_ʀᴏʙᴏᴛ](https://telegra.ph/file/0dc3822e1a4cba1762be6.mp4)」────
 *Hello {} !*
 *I'ᴍ ᴀɴ ᴀɴɪᴍᴇ ᴛʜᴇᴍᴇ ᴍᴀɴᴀɢᴇᴍᴇɴᴛʙᴏᴛ.!
