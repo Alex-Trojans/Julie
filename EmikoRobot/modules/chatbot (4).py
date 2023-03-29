@@ -24,12 +24,12 @@ from telegram.ext import (
 )
 from telegram.utils.helpers import mention_html
 
-import LorcanRobot.modules.sql.chatbot_sql as sql
-from LorcanRobot import dispatcher, BOT_ID, BOT_NAME, BOT_USERNAME
-from LorcanRobot.modules.helper_funcs.chat_status import user_admin, user_admin_no_reply
-from LorcanRobot.modules.helper_funcs.filters import CustomFilters
-from LorcanRobot.modules.log_channel import gloggable
-from LorcanRobot.modules.language import gs
+import Julie.modules.sql.chatbot_sql as sql
+from Julie import dispatcher, BOT_ID, BOT_NAME, BOT_USERNAME
+from Julie.modules.helper_funcs.chat_status import user_admin, user_admin_no_reply
+from Julie .modules.helper_funcs.filters import CustomFilters
+from Julie.modules.log_channel import gloggable
+from Julie.modules.language import gs
 
 
 @user_admin_no_reply
