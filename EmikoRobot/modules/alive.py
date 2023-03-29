@@ -15,11 +15,11 @@ PHOTO = "https://telegra.ph/file/1e4bdf9478e635ee35914.jpg"
 @register(pattern=("/alive"))
 async def awake(event):
     TEXT = f"**Hi [{event.sender.first_name}](tg://user?id={event.sender.id}), I'm Julie Robot.** \n\n"
-    TEXT += "♡ **I'm Working Properly** \n\n"
-    TEXT += f"♡ **My Master : [sena-ex](https://t.me/excrybaby)** \n\n"
-    TEXT += f"♡ **Library Version :** `{telever}` \n\n"
-    TEXT += f"♡ **Telethon Version :** `{tlhver}` \n\n"
-    TEXT += f"♡ **Pyrogram Version :** `{pyrover}` \n\n"
+    TEXT += f"**I'm Working Properly** \n\n"
+    TEXT += f"♡ **My Hubby : [sena-ex](https://t.me/excrybaby)** \n\n"
+    TEXT += f"๏ **Library Version :** `{telever}` \n\n"
+    TEXT += f"๏ **Telethon Version :** `{tlhver}` \n\n"
+    TEXT += f"๏ **Pyrogram Version :** `{pyrover}` \n\n"
     TEXT += "**Thanks For Adding Me Dear 🦋**"
     BUTTON = [
         [
