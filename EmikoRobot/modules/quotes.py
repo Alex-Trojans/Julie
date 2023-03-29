@@ -331,8 +331,8 @@ setattr(Message, "try_delete", _try_delete)
 async def quott_(event):
     match = event.pattern_match.group(1).strip()
     if not event.is_reply:
-        return await event.eor("ᴘʟᴇᴀꜱᴇ ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴍᴇꜱꜱᴀɢᴇ!")
-    msg = await event.reply("ᴄʀᴇᴀᴛɪɴɢ Qᴜᴏᴛᴇ...")
+        return await event.eor("Please Reply To A Message!")
+    msg = await event.reply("Creating Your Quote...")
     reply = await event.get_reply_message()
     replied_to, reply_ = None, None
     if match:
