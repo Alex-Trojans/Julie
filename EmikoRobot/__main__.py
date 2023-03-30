@@ -82,9 +82,9 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = ""
-────「[ᴊᴜʟɪᴇ_x_ʀᴏʙᴏᴛ](https://telegra.ph/file/0dc3822e1a4cba1762be6.mp4)」────
+
 *Hello {} !*
-*I'm Anime Themed Advance Group Management Bot.
+*I'm Anime Themed Advance Group Management Bot.[🦋](https://te.legra.ph/file/6973ee677eedbe828ec2a.mp4)
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 × *Uptime:* `{}`
 × `{}` *Users, Across* `{}` *Chats.*
