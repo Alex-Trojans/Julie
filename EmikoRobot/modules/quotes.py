@@ -3,8 +3,8 @@ import base64
 import base64
 import json
 
-from Julie.events import register
-from Julie import DEV_USERS
+from EmikoRobot.events import register
+from EmikoRobot import DEV_USERS
 
 from asyncio import sleep
 
