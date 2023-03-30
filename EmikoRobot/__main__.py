@@ -85,10 +85,10 @@ PM_START_TEXT = ""
 
 *Hello {} !*
 *I'am A Anime Themed Advance Group Management Bot
-➖➖➖➖➖➖➖➖➖➖➖➖➖
+━━━━━━━━━━━━━━━━━━━━━━━
 × *Uptime:* `{}`
 × `{}` *Users, Across* `{}` *Chats.*
-➖➖➖➖➖➖➖➖➖➖➖➖➖
+━━━━━━━━━━━━━━━━━━━━━━━
 ➢ Hit /help to see my available commands.
 """
 
